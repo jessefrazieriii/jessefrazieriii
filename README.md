@@ -27,5 +27,6 @@ Stay tuned! Repositories will be rolling out soon.
 ---
 
 📫 **Want to connect?**
-[LinkedIn] (https://www.linkedin.com/in/jessefrazieriii/)  
-[Email] (jessefrazieriii@gmail.com)  
+
+[LinkedIn](https://www.linkedin.com/in/jessefrazieriii/)  
+[Email](jessefrazieriii@gmail.com)  
