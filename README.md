@@ -30,3 +30,5 @@ Stay tuned! Repositories will be rolling out soon.
 
 [LinkedIn](https://www.linkedin.com/in/jessefrazieriii/)  
 [Email](jessefrazieriii@gmail.com)  
+
+Showtime Always.
